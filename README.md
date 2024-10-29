@@ -1,2 +1,1 @@
-# examen1mperez
-Este es el examen
+Miguel Pérez Sánchez.
